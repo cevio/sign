@@ -1,0 +1,8 @@
+{
+  "name": "node-sign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "md5-hex": "^2.0.0"
+  }
+}
