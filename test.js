@@ -10,7 +10,6 @@ const body = {
       y:2
     },
     "evio",
-    true,
     123,
     {
       m: {
